@@ -23,7 +23,6 @@ string getAscii(string path) {
 }
 
 void night(){
-		
 	moveObject();
 }
 
